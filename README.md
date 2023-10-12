@@ -1,2 +1,3 @@
 # Movie-Recommendation
+"Discover films tailored to your tastes with our movie recommendation system, powered by a curated dataset of 5000 movies"(Using DataSet of 5000 movie) 
 Introducing our movie recommendation system powered by cutting-edge machine learning algorithms. Our system analyzes your movie preferences to provide personalized movie recommendations. Whether you're a fan of action, romance, sci-fi, or any genre, our system tailors its suggestions just for you. Say goodbye to endless scrolling and hello to a more enjoyable movie-watching experience. Discover new favorites and rediscover classics with our intuitive and user-friendly recommendation system.
